@@ -2,4 +2,4 @@
 
 Nice to meet you all here.
 
-[Here is my photo](Aboutme/picture.jpg)
+[Here is my photo](/picture.jpg)
